@@ -9,3 +9,8 @@ Adjusted R Squared (R²)
 Mean Squared Percentage Error (MSPE)
 Mean Absolute Percentage Error (MAPE)
 Root Mean Squared Logarithmic Error (RMSLE)
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
