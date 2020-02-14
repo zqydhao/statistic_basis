@@ -1,0 +1,10 @@
+# Regression Metrics selection
+Let’s rememeber first the main regression metrics:
+Mean Squared Error (MSE)
+Root Mean Squared Error (RMSE)
+Mean Absolute Error (MAE)
+R Squared (R²)
+Adjusted R Squared (R²)
+Mean Squared Percentage Error (MSPE)
+Mean Absolute Percentage Error (MAPE)
+Root Mean Squared Logarithmic Error (RMSLE)
