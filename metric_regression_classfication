@@ -1,6 +1,5 @@
-# 
-**This is bold text**
 Regression Metrics selection
+(https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-2-regression-metrics-d4a1a9ba3d74)
 Let’s rememeber first the main regression metrics:
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
