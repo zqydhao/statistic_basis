@@ -2,7 +2,7 @@
 title: "aaaaa"
 output: html_document
 ---
-# ≥¨∞ÙµƒR”Ô—‘ Èµ•
+# ‰∏≠Êñá
 https://www.xiangyunhuang.com.cn/2019/06/awesome-books/
 
 # BOOK 1: the element of statistical learning:
