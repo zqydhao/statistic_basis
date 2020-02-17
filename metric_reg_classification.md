@@ -17,7 +17,9 @@ https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-fo
 https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-3-classification-3eac420ec991 
 
 - Confusion or Error Matrix
-- Accuracy
+- Accuracy \
+https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/
+
 - Recall or Sensitivity or TPR (True Positive Rate)
 - Precision
 - Specificity or TNR (True Negative Rate)
