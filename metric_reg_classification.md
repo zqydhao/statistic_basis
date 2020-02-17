@@ -1,4 +1,4 @@
-# How to select the Right Evaluation Metric for Machine Learning Models: Part 1 Regression Metrics
+# How to select the Right Evaluation Metric for Machine Learning Models:
 ## Regression Metrics
 https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0
 
