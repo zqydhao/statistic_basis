@@ -1,3 +1,5 @@
+# 超棒的书单
+https://github.com/ZhiqiangHo/awesome-machine-learning
 # 超棒的R语言书单
 https://www.xiangyunhuang.com.cn/2019/06/awesome-books/
 
