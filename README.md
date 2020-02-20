@@ -10,3 +10,4 @@ https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf
 # BOOK 2: An Introduction to Statistical Learning with Applications in R
 http://faculty.marshall.usc.edu/gareth-james/ISL/ \
 http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf
+https://github.com/ZhiqiangHo/awesome-machine-learning/blob/master/Mathemmatics%20%E3%80%8A%20%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E5%AF%BC%E8%AE%BA%E5%9F%BA%E4%BA%8ER%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88%E3%80%8B.pdf
