@@ -15,4 +15,4 @@ https://github.com/ZhiqiangHo/awesome-machine-learning/blob/master/Mathemmatics%
 
 # github tricks
 https://github.blog/2013-03-15-moving-and-renaming-files-on-github/
-(  /:创建新folder   )
+(  / 创建新folder   )
