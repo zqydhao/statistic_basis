@@ -25,3 +25,7 @@ https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-st
 ## class notes
 
 https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/
+
+#数学期望与方差
+
+https://zhuanlan.zhihu.com/p/45720457
