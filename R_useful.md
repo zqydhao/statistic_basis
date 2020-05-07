@@ -15,6 +15,7 @@ from tianyishi2001
 不错的shu
 https://tianyishi2001.github.io/r-and-tidyverse-book/index.html
 （判断和循环！！！https://tianyishi2001.github.io/r-and-tidyverse-book/control-flow.html#control-flow-rigorous）
+
 https://yufree.github.io/sciguide/data.html#%E7%AE%97%E6%B3%95
 
 # 知乎
@@ -28,3 +29,6 @@ https://zhuanlan.zhihu.com/p/70502734
 
 # 其他
 https://riptutorial.com/zh-CN/r
+
+# R FOR MVN
+https://yongfu.name/MVA/mvnorm.html
