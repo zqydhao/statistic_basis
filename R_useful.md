@@ -23,8 +23,11 @@ R语言初级教程（1-23）
 https://www.zhihu.com/people/liu-juan-79-17/posts?page=1
 (如何找到你要的包：https://cran.r-project.org/web/views/ ; 判断和循环https://zhuanlan.zhihu.com/p/110022769)
 
-R语言中的循环+apply函数
+# R语言中的循环+apply函数
 https://zhuanlan.zhihu.com/p/70502734
+
+# R for data science
+https://r4ds.had.co.nz/r-markdown.html
 
 
 # 其他
