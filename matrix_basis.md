@@ -7,7 +7,7 @@ https://www.biostat.washington.edu/sites/default/files/modules/IntroMM-Seattle-2
 http://nitro.biosci.arizona.edu/workshops/MM2012/notes/pdfs/Lecture01-Matrix.pdf
 
 ### 矩阵相乘的物理含义
-(1)最好的对矩阵的解释！！！respect!!!
+(1)最好的对矩阵的解释！！！respect!!! (别的博文也很好)
 
 https://blog.csdn.net/myan/article/details/1865397
 
