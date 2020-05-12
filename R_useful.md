@@ -26,6 +26,7 @@ https://www.zhihu.com/people/liu-juan-79-17/posts?page=1
 ## CSDN
 R 笔记 补充上面的R语言初级教程（1-23）
 https://blog.csdn.net/qy_microbiota?t=1
+其中包括 ###debug 内容，同样的 https://rstudio-education.github.io/hopr/debug.html 也有 debugg 内容。另外的，他还有speeding的内容：基本就是说vectorize and 预先分配内存，不要grow vector/matrix....
 
 ## R语言中的循环+apply函数
 https://zhuanlan.zhihu.com/p/70502734
