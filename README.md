@@ -2,6 +2,8 @@
 https://github.com/ZhiqiangHo/awesome-machine-learning
 # 超棒的R语言书单
 https://www.xiangyunhuang.com.cn/2019/06/awesome-books/
+# bookdown 书单
+https://bookdown.org/
 
 # BOOK 1: the element of statistical learning:
 https://web.stanford.edu/~hastie/ElemStatLearn/ \
