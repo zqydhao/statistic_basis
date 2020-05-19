@@ -10,6 +10,17 @@ https://csgillespie.github.io/efficientR/set-up.html#rstudio
 R 与 matlab 语句对比
 http://mathesaurus.sourceforge.net/octave-r.html
 
+R studio 主题
+1)集合
+https://awesomeopensource.com/project/mkearney/rstudiothemes?categoryPage=5
+
+2) Theme: rscodeio (推荐)
+https://github.com/anthonynorth/rscodeio
+2.1) Switching to another theme
+rscodeio modifies UI elements that are not part of standard theming. This means the RStudio file menus will remain dark even if you switch to another theme. 
+To revert them, within an RStudio session run as administrator, use: rscodeio::deactivate_menu_theme. 
+Reactivate again with: rscodeio::activate_menu_theme.
+
 ## github
 from tianyishi2001 
 不错的shu
