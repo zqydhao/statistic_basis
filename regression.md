@@ -8,3 +8,5 @@ http://users.stat.umn.edu/~helwig/notes/?C=M;O=A
 ### 好的课件2
 http://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch1.pdf
 （Note: /jf/ch1.pdf,这里改变ch2,ch3,....）
+### 好的课件3 （anova and mixed  effect model）
+http://users.stat.umn.edu/~helwig/notes/
