@@ -20,7 +20,9 @@ https://github.com/anthonynorth/rscodeio
 rscodeio modifies UI elements that are not part of standard theming. This means the RStudio file menus will remain dark even if you switch to another theme. 
 To revert them, within an RStudio session run as administrator, use: rscodeio::deactivate_menu_theme. 
 Reactivate again with: rscodeio::activate_menu_theme.
-
+## 书籍推荐
+syntax and probability basis(type 1/2 errors)
+https://bookdown.org/ndphillips/YaRrr/
 ## github
 from tianyishi2001 
 不错的shu
